@@ -1,0 +1,27 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
+
+## Skin
+
+### Label
+label4056.text = Appartement VAUBAN
+
+## Media
+
+### Title
+panorama_EB8FC4C6_E7C1_332F_41D3_1E14F2504884.label = Salle de bain
+panorama_EC17A84C_E7C1_1323_41EB_2D1EEBF6EDA7.label = Salon
+panorama_EC17B283_E7C1_7724_41E9_CC04B4D59C49.label = Chambre
+panorama_EC28E8DB_E7C1_1325_41DE_05FB056E0574.label = Verrière
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://linktr.ee/t3_architecture
+LinkBehaviour_A99CB470_BF24_034B_41D8_32775ADC450A.source = https://linktr.ee/t3_architecture
